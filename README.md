@@ -1,7 +1,7 @@
 # HR Analytics Dashboard
 ## Dashboard Overview
 
-![HR Analytics Dashboard](https://github.com/Analyst-Saurabh/HR-Analytics-Dashboard/blob/main/HR_Analytics_Dashboard_image.png)
+![HR Analytics Dashboard](https://github.com/Analyst-Saurabh/HR-Analytics-Dashboard/blob/main/HR_Analytical_Dashboard_image.png)
 
 
 ## Dashboard Link
